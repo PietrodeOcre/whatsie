@@ -1,8 +1,8 @@
-__Whatsie is not available anymore. Please use the [official client](https://www.whatsapp.com/download/). The following is a final version of the abandoned, unofficial _WhatsApp Web_ client Whatsie. This project is/was not affiliated with WhatsApp Inc. in any way. It will not be updated.__
+__Whatsie is not available anymore. Please use the [official client](). The following is a final version of the abandoned, unofficial _ Web_ client Whatsie. This project is/was not affiliated with Whap Inc. in any way. It will not be updated.__
 
 # Whatsie
 
-A simple &amp; beautiful desktop client for [WhatsApp Web](https://web.whatsapp.com/). Chat without distractions on OS X, Windows and Linux. Not affiliated with WhatsApp or Facebook. This is **NOT** an official product.
+A simple &amp; beautiful desktop client for [Wasap Web](). Chat without distractions on OS X, Windows and Linux. Not affiliated with  or . This is **NOT** an official product.
 
 ![Whatsie Screenshot](./screenshot.png)
 
